@@ -18,7 +18,7 @@ body {
 }
 
 .conatiner {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-color: #F5F5F5;
     width: 10;
     height: 85%;
@@ -36,7 +36,7 @@ body {
 }
 
 .conatiner p {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80%;
     margin: auto;
     margin-bottom: 3%;
@@ -45,13 +45,13 @@ body {
 
 
 .content {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 90%;
 
 }
 
 .overall-ctn {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 50%;
     width: 80%;
     margin: auto;
@@ -64,7 +64,7 @@ body {
     width: 50%;
     height: 50%;
     border-radius: 5px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     justify-content: center;
